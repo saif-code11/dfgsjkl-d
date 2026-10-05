@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\unit\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\unit\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\unit\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\unit\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\genaricrepo\\genaricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\genaricrepo\\genaricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\genaricrepo\\igenaricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\genaricrepo\\igenaricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\repo\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\repo\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\repo\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\repo\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\mapping\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\dtos\\bookdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\dtos\\bookdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Migrations\\20261005113157_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:casestuady2\\Migrations\\20261005113157_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\dtos\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\dtos\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\dtos\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\dtos\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|c:\\users\\saif.alaa\\source\\repos\\casestuady2\\casestuady2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4243FBD3-F73B-4856-A26C-7A88132CFEA9}|casestuady2\\casestuady2.csproj|solutionrelative:casestuady2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Controllers\\BookController.cs",
+              "RelativeToolTip": "casestuady2\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:53:27.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Unit\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Unit\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Unit\\UnitOfWork.cs*",
+              "RelativeToolTip": "casestuady2\\Unit\\UnitOfWork.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:44:47.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Unit\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Unit\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Unit\\IUnitOfWork.cs",
+              "RelativeToolTip": "casestuady2\\Unit\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:42:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Program.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Program.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Program.cs",
+              "RelativeToolTip": "casestuady2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:05:18.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenaricRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\GenaricRepo\\GenaricRepo.cs",
+              "RelativeDocumentMoniker": "casestuady2\\GenaricRepo\\GenaricRepo.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\GenaricRepo\\GenaricRepo.cs",
+              "RelativeToolTip": "casestuady2\\GenaricRepo\\GenaricRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:38:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenaricRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\GenaricRepo\\IGenaricRepo.cs",
+              "RelativeDocumentMoniker": "casestuady2\\GenaricRepo\\IGenaricRepo.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\GenaricRepo\\IGenaricRepo.cs",
+              "RelativeToolTip": "casestuady2\\GenaricRepo\\IGenaricRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:37:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Repo\\BookRepo.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Repo\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Repo\\BookRepo.cs",
+              "RelativeToolTip": "casestuady2\\Repo\\BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:51:37.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Repo\\IBook.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Repo\\IBook.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Repo\\IBook.cs",
+              "RelativeToolTip": "casestuady2\\Repo\\IBook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:50:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Book.cs",
+              "RelativeToolTip": "casestuady2\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:03:45.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20261005113157_init.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Migrations\\20261005113157_init.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Migrations\\20261005113157_init.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Migrations\\20261005113157_init.cs",
+              "RelativeToolTip": "casestuady2\\Migrations\\20261005113157_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:31:57.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Mapping\\Mapping.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Mapping\\Mapping.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Mapping\\Mapping.cs",
+              "RelativeToolTip": "casestuady2\\Mapping\\Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:27:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\BookingDtos.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Dtos\\BookingDtos.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\BookingDtos.cs",
+              "RelativeToolTip": "casestuady2\\Dtos\\BookingDtos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:26:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\BookDtos.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Dtos\\BookDtos.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\BookDtos.cs",
+              "RelativeToolTip": "casestuady2\\Dtos\\BookDtos.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:18:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Customer.cs",
+              "RelativeToolTip": "casestuady2\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:04:28.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\MemberDtos.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Dtos\\MemberDtos.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\MemberDtos.cs",
+              "RelativeToolTip": "casestuady2\\Dtos\\MemberDtos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:23:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\CategoryDtos.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Dtos\\CategoryDtos.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Dtos\\CategoryDtos.cs",
+              "RelativeToolTip": "casestuady2\\Dtos\\CategoryDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:25:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Category.cs",
+              "RelativeToolTip": "casestuady2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:59:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Models\\Borrowing.cs",
+              "RelativeToolTip": "casestuady2\\Models\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:04:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "casestuady2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "casestuady2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:06:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\appsettings.json",
+              "RelativeDocumentMoniker": "casestuady2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Saif.Alaa\\source\\repos\\casestuady2\\casestuady2\\appsettings.json",
+              "RelativeToolTip": "casestuady2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T11:05:44.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
